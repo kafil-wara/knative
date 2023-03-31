@@ -16,7 +16,7 @@ run:
   envs: []
 deploy:
   namespace: default
-  remote: false
+
   annotations: {}
   options: {}
   labels: []
