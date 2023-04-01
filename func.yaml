@@ -3,7 +3,7 @@ name: hello
 runtime: go
 registry: quay.io/kafilwara/hello
 image: quay.io/kafilwara/hello
-imageDigest: sha256:894203007f9df0802040a98d0306d9030c8ae5b000c1991f91f03fb518bff106
+imageDigest: sha256:9c17733833e939e90546135703b26c95e871d2e89c9ee0d17bbca0f4ce324cd4
 created: 2023-03-31T12:15:08.7062843+06:00
 build:
   buildpacks:
